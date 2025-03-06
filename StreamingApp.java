@@ -90,8 +90,8 @@ public class StreamingApp {
 
         Pengguna penonton = new Pengguna();
         penonton.setIdPengguna(1);
-        penonton.setNamaLengkap(" Yanto Anime");
-        penonton.setEmail("budi@anime.com");
+        penonton.setNamaLengkap("El Yanto");
+        penonton.setEmail("yanto@anime.com");
         
         Anime naruto = new Anime();
         naruto.setIdAnime(001);
