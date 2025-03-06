@@ -1,6 +1,5 @@
 # PBO-CLASS-DIAGRAM
 Class diagram App Streaming Anime
 
-Nama : Rangga Hishbu Shafar
-Kelas : TI23G
-Nim : 20230040284
+Rangga Hishbu Shafar_20230040284_TI23G
+
